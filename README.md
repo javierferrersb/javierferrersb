@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Javier
+## 👋 Hi there, I'm Javier
 ![Hello there obi wan kenobi gif](https://user-images.githubusercontent.com/84251991/167663499-1d47ba6f-9f21-458b-b277-04f580f23876.gif)
 
 - 🎓 Currently studying Computer Science Engineering at Universidad Politécnica de Valencia.
