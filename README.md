@@ -3,7 +3,7 @@
 
 - 🎓 Currently studying Computer Science Engineering at Universidad Politécnica de Valencia.
 - 🌱 I’m currently learning React and Typescript.
-- 🔭 I’m currently working on a .NET (WPF) Quiz app and a React Trivia app. 
+- 🔭 I’m currently working on a React Trivia app. 
 
 <!--
 Here are some ideas to get you started:
