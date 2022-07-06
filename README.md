@@ -3,7 +3,7 @@
 
 - 🎓 Currently studying Computer Science Engineering at Universidad Politécnica de Valencia.
 - 🌱 I’m currently learning React and Typescript.
-- 🔭 I’m currently working on a React Trivia app. 
+- 🔭 I’m currently working on a React Shopping website. 
 
 <!--
 Here are some ideas to get you started:
